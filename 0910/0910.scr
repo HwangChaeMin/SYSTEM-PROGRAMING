@@ -1,0 +1,11 @@
+Script started on 2019-09-10 09:49:13+0900
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;system@SAMSUNG: ~/sp/0910[01;32msystem@SAMSUNG[00m:[01;34m~/sp/0910[00m$ touch 01[K910.txt
+]0;system@SAMSUNG: ~/sp/0910[01;32msystem@SAMSUNG[00m:[01;34m~/sp/0910[00m$ ||
+bash: syntax error near unexpected token `||'
+]0;system@SAMSUNG: ~/sp/0910[01;32msystem@SAMSUNG[00m:[01;34m~/sp/0910[00m$ exit
+exit
+
+Script done on 2019-09-10 09:49:30+0900
