@@ -1,0 +1,12 @@
+#!/bin/bash
+#iterate through all the files in a directory
+
+for file in /home/sp/1029/*
+do
+	if [ -d "$file" ]
+	then
+	echo "$file is a directory"
+	elif[ -f "$file" ]
+	echo "$file is a file"
+	fi
+done
